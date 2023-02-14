@@ -107,6 +107,10 @@ public class Main {
 //        System.out.println("DevOps bonus: $" + devOps.calculate());
 //        System.out.println("\n");
 
+        
+        // Heres the project i Did on my own outside of class time to practice! :)
+        
+        
         // write a program that shows the names of products, their prices and discount based on day of the week
 
         /*
